@@ -521,6 +521,11 @@ SELECT AVG(Credits) AS Average_Credits
 FROM Courses_table;
 ```
 
+Explanation Video:
+
+https://drive.google.com/file/d/1cjzPpErFkeUw1wpqM956AibbvdHtooof/view?usp=sharing
+
+
 ### Query 8: Maximum Instructor Salary
 
 This query uses `MAX()` and `JOIN` to find the maximum instructor salary
